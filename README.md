@@ -1,3 +1,5 @@
+Note: this repository is for archival purposes, and is not maintained or updated. Original readme follows.
+
 # NTNU
 
 ## How to use
